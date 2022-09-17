@@ -113,7 +113,7 @@ async function publish(page, graphDistPath) {
 
   await delay(1000);
 
-  let TTT = 120;
+  let TTT = 180;
   while (!checkGraphDistPathExist() || checkGraphPublishing()) {
     await delay(1000);
     TTT--;
