@@ -1,4 +1,4 @@
-name: "Logseq Publish"
+name: "Logseq Publish - Louis"
 description: "Publish your Logseq Graph"
 inputs:
   src:
