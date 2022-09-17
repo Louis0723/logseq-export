@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daydemir/logseq-export.git"
+    "url": "git+https://github.com/louis0723/logseq-export.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/daydemir/logseq-export/issues"
+    "url": "https://github.com/louis0723/logseq-export/issues"
   },
-  "homepage": "https://github.com/daydemir/logseq-export#readme",
+  "homepage": "https://github.com/louis0723/logseq-export#readme",
   "dependencies": {
     "electron": "15.1.2",
     "playwright": "^1.23.2",

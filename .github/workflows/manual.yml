@@ -9,7 +9,7 @@ on:
         required: true
         type: string
       publish_tag:
-        description: "Tag of ghcr.io/daydemir/logseq-export"
+        description: "Tag of ghcr.io/louis0723/logseq-export"
         required: false
         type: string
 
